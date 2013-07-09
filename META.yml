@@ -27,7 +27,7 @@ no_index:
 provides:
   SQL::Maker::Plugin::JoinSelect:
     file: lib/SQL/Maker/Plugin/JoinSelect.pm
-    version: 0.02
+    version: 0.03
 requires:
   SQL::Maker: 1.12
   perl: 5.008001
@@ -35,4 +35,4 @@ resources:
   bugtracker: https://github.com/Songmu/p5-SQL-Maker-Plugin-JoinSelect/issues
   homepage: https://github.com/Songmu/p5-SQL-Maker-Plugin-JoinSelect
   repository: git://github.com/Songmu/p5-SQL-Maker-Plugin-JoinSelect.git
-version: 0.02
+version: 0.03

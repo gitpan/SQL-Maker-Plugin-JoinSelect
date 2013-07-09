@@ -53,7 +53,7 @@
    "provides" : {
       "SQL::Maker::Plugin::JoinSelect" : {
          "file" : "lib/SQL/Maker/Plugin/JoinSelect.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -67,5 +67,5 @@
          "web" : "https://github.com/Songmu/p5-SQL-Maker-Plugin-JoinSelect"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
