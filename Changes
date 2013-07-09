@@ -1,4 +1,7 @@
 Revision history for Perl extension SQL-Maker-Plugin-JoinSelect
 
+0.02 2013-07-09T02:07:57Z
+    - depend on SQL::Maker 1.12 or higher
+
 0.01 2013-07-08T14:58:40Z
     - original version
